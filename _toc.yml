@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+- file: Data-Analysis
+- file: Business-Analysis
+- file: NLP
+- file: Inspiration
